@@ -1,6 +1,5 @@
 from flask import Flask
 from flask_ask import Ask, statement, question, session
-import unidecode
 from lxml import html
 import requests
 
